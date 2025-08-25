@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+*.tmp
+.ipynb_checkpoints/
+
+# Envs
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Artifacts
+model.pkl
+labels.json
+
+# IDE
+.vscode/
+.idea/
